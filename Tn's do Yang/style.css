@@ -1,0 +1,9 @@
+:root{
+    --cor-de-fundo:#eeeeee;
+    --coor-do-texto:#ffffff;
+    --destaque:rgb(0, 0, 0);
+    --links:rgb(0, 0, 0);
+}
+.cabecalho{
+    background-color: var(--cor-de-fundo);
+}
