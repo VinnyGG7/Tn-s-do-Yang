@@ -1,0 +1,18 @@
+@import url("styles/header.css");
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Orbitron", sans-serif;
+}
+
+:root{
+    --cor-de-fundo:#c5c5c5;
+    --cor-do-texto:#ffffff;
+    --destaque:rgb(0, 0, 0);
+    --links:rgb(22, 22, 22);
+}
+.cabecalho{
+    background-color: var(--cor-de-fundo);
+}
